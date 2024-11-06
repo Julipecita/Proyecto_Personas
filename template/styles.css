@@ -11,7 +11,7 @@ body {
     /* Imagen de fondo*/
     background-attachment: fixed;
     /* Dejarla fija*/
-    background-color: rgb(244, 247, 246);
+    background-color: rgb(64, 168, 133);
     color: rgb(51, 51, 51);
     display: flex;
     flex-direction: column;
